@@ -1,6 +1,6 @@
 # Tensorflow Timeseries Framework
 
-##Libraries Needed:
+## Libraries Needed:
 
 1. Tensorflow
 2. Keras
@@ -9,13 +9,13 @@
 5. Numpy
 6. Pandas
  
-##Software Used:
+## Software Used:
 
 1. CUDA 11.0
 2. cuDNN 8.1
 3. Uvicorn (For running the webapp)
 
-##Steps:
+## Steps:
 
 1. Get data online.
 2. Preprocess data in google colab.
